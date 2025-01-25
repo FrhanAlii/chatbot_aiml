@@ -1,0 +1,118 @@
+<aiml version="2.0">
+
+  <!-- Information about Datasage and Farhan -->
+  <category>
+    <pattern>WHO IS DATASAGE</pattern>
+    <template>
+      Datasage is an AI chatbot created to assist with AI, Machine Learning, and Deep Learning topics. It was created by Farhan.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHO CREATED YOU *</pattern>
+    <template>
+      Farhan created me. He is a student at the University of Management and Technology, studying Artificial Intelligence.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS YOUR PURPOSE *</pattern>
+    <template>
+      My purpose is to help with AI-related queries and explain concepts in Deep Learning and Machine Learning.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHO IS FARHAN *</pattern>
+    <template>
+      Farhan is my creator. He studies Artificial Intelligence at UMT and is in his 4th semester.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT ARE FARHAN'S HOBBIES *</pattern>
+    <template>
+      Farhan enjoys coding, exploring AI tools, and playing video games.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS FARHAN'S FAVORITE CAR *</pattern>
+    <template>
+      Farhan's favorite car is Tesla Model S.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS FARHAN'S FAVORITE COLOR *</pattern>
+    <template>
+      Farhan's favorite color is blue.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT DO YOU KNOW ABOUT FARHAN *</pattern>
+    <template>
+      Farhan is an AI student at UMT. He is passionate about AI and enjoys working on projects related to Machine Learning.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS UMT *</pattern>
+    <template>
+      UMT stands for the University of Management and Technology, where Farhan studies Artificial Intelligence.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS ARTIFICIAL INTELLIGENCE *</pattern>
+    <template>
+      Artificial Intelligence is a field of computer science focused on creating systems capable of performing tasks that require human intelligence.
+    </template>
+  </category>
+
+  <category>
+    <pattern>HOW WERE YOU MADE *</pattern>
+    <template>
+      I was built using AIML, with a knowledge base on AI topics, designed by Farhan.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS YOUR NAME *</pattern>
+    <template>
+      My name is Datasage.
+    </template>
+  </category>
+
+  <!-- Retain the existing Deep Learning topics -->
+  <category>
+    <pattern>WHAT IS DEEP LEARNING *</pattern>
+    <template>
+      Deep learning is a subset of machine learning that uses neural networks with multiple layers to analyze and interpret data.
+    </template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS A NEURAL NETWORK *</pattern>
+    <template>
+      A neural network is a series of algorithms that mimic the operations of a human brain to recognize relationships between vast amounts of data.
+    </template>
+  </category>
+
+  <category>
+    <pattern>EXPLAIN CONVOLUTIONAL NEURAL NETWORK *</pattern>
+    <template>
+      Convolutional Neural Networks (CNNs) are specialized neural networks for processing data with grid patterns, such as images, using convolutional layers to detect patterns.
+    </template>
+  </category>
+
+  <category>
+    <pattern>*</pattern>
+    <template>
+      Sorry, I didn’t understand that.
+    </template>
+  </category>
+
+  <!-- Additional topics remain unchanged -->
+</aiml>

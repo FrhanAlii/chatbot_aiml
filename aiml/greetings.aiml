@@ -1,0 +1,43 @@
+<aiml version="2.0">
+  <category>
+    <pattern>HELLO</pattern>
+    <template>
+      Hello! How can I assist you today?
+    </template>
+  </category>
+
+  <category>
+    <pattern>HI</pattern>
+    <template>
+      Hi! What can I help you with?
+    </template>
+  </category>
+
+  <category>
+    <pattern>HEY</pattern>
+    <template>
+      Hey there! What can I do for you today?
+    </template>
+  </category>
+
+  <category>
+    <pattern>GOOD MORNING</pattern>
+    <template>
+      Good morning! How can I help you today?
+    </template>
+  </category>
+
+  <category>
+    <pattern>GOOD EVENING</pattern>
+    <template>
+      Good evening! What would you like to talk about?
+    </template>
+  </category>
+
+  <category>
+    <pattern>GOOD NIGHT</pattern>
+    <template>
+      Good night! Sleep well, and talk to you soon.
+    </template>
+  </category>
+</aiml>

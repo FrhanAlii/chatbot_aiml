@@ -1,0 +1,22 @@
+<aiml version="2.0">
+  <category>
+    <pattern>GOODBYE</pattern>
+    <template>
+      Goodbye! Take care and see you soon.
+    </template>
+  </category>
+
+  <category>
+    <pattern>SEE YOU LATER</pattern>
+    <template>
+      See you later! Have a great day ahead.
+    </template>
+  </category>
+
+  <category>
+    <pattern>TALK TO YOU SOON</pattern>
+    <template>
+      Talk to you soon! Don't hesitate to return if you need anything.
+    </template>
+  </category>
+</aiml>
